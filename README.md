@@ -13,7 +13,7 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 **Example**
 
-'''C
+"""C
 int glider[][2] = { {1,0}, {2,1}, {0,2}, {1,2}, {2,2} };
 for( int i=0; i<5; i++ )
   4.     set_pixel( img, w, h, glider[i][0], glider[i][1], 255 );
@@ -22,4 +22,4 @@ for( int i=0; i<5; i++ )
   8.       draw_image_grey( img, w, h );
   9.       life( img, w, h );
  10.     }
- 11.   draw_image_grey( img, w, h ); '''
+ 11.   draw_image_grey( img, w, h ); """
