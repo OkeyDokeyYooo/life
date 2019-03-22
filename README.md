@@ -22,4 +22,5 @@ for( int i=0; i<5; i++ )
   8.       draw_image_grey( img, w, h );
   9.       life( img, w, h );
  10.     }
- 11.   draw_image_grey( img, w, h ); ```
+ 11.   draw_image_grey( img, w, h ); 
+```
