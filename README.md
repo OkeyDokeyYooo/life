@@ -25,6 +25,6 @@ for( int i=0; i<5; i++ )
  11.   draw_image_grey( img, w, h ); 
 ```
 
-##Picture##
+##Picture
 ![](https://github.com/OkeyDokeyYooo/life/blob/master/1.png)
 ![](https://github.com/OkeyDokeyYooo/life/blob/master/2.png)
